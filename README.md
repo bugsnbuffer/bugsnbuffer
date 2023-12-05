@@ -15,7 +15,7 @@ Get started in no time with these easy steps. No bugs can withstand your setup p
 Meet the awesome minds behind BugsnBuffer:
 
 - [Lukmaan](https://github.com/lukmaann) 😎
-- [Sourabh](https://github.com/sourabh) 🚀
+- [Sourabh](https://github.com/sourabh32) 🚀
 
 ## Folder Structure 📂
 
