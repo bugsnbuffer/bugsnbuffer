@@ -1,4 +1,4 @@
-# BugsnBuffer Project 🐞🚀
+# BugsnBuffer Projects 🐞🚀
 
 Welcome to the BugsnBuffer project repository! This project is a collaborative effort by Lukmaan and Sourabh.
 
