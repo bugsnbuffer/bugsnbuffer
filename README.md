@@ -15,7 +15,7 @@ Explore the collection of exciting projects hosted under the BugsnBuffer account
 Meet the brilliant minds behind BugsnBuffer:
 
 - [Lukmaan](https://github.com/lukmaann) 😎
-- [Sourabh](https://github.com/sourabh) 🚀
+- [Sourabh](https://github.com/sourabh32) 🚀
 
 ## How to Collaborate 🤓
 
